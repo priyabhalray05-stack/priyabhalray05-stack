@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priya
+# 👋 Hi, I'm Priya Bhalray
 
 <h3 align="center">🚀 MERN Stack Developer | Full Stack Web Enthusiast</h3>
 
